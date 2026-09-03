@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 
 A["User Query"]
@@ -38,3 +39,4 @@ U --> S
 T -->|Yes| V["Grounded Answer"]
 V --> W["Sources + Next Steps"]
 W --> Z["Final Response"]
+```
